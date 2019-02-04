@@ -1,7 +1,7 @@
 #!/system/xbin/bash
-#Author InYouMRa27
-#Mau Ngapin Lu nyet!!
-#Ga Usah Recode Goblok!!
+#Author Waimusi Cyber Team
+#jangan diliat mulu..!!!
+#santai saja bro...!!!
 
 
 clear
@@ -13,7 +13,7 @@ toilet NUYUL
 echo "#####################################"
 date
 echo "##################################"
-echo "     [+] CREATE BY MR.A27"
+echo "     [+] CREATE BY WAIMUSI CYBER TEAM"
 echo "##################################"
 echo
 echo "[#############################]"
